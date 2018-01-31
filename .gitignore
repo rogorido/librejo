@@ -1,2 +1,8 @@
 *.pro.user
 *.autosave
+*.o
+*.h
+Makefile
+moc_*
+librejo
+
