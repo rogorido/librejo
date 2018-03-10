@@ -17,5 +17,5 @@ MainWindow::~MainWindow()
     db.setDatabaseName("libros.db");
 
     if (db.open())
-        qDebug() << "Abierta";
+        qDebug() << "DB abierta, paspanín!";
 }
