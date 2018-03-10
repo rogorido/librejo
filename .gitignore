@@ -5,4 +5,5 @@
 Makefile
 moc_*
 librejo
-
+*.stash
+*.db
